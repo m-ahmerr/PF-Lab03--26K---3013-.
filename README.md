@@ -3,6 +3,6 @@
 - ali
 - hassan
 - showed unordered
-1 ali
-2 hassan
-3 showed ordered    
+1. ali
+2. hassan
+3. showed ordered    
